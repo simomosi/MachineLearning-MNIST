@@ -1,4 +1,4 @@
-# MachineLearningMNIST
+# MachineLearning MNIST
 Academic project consisting in creating a Neural Network to recognise hand-written digits stored in the MNIST database (http://yann.lecun.com/exdb/mnist/). The NN is dynamic: it's possible to specify an arbitrary number of layers and nodes per layer.
 
 The project is divided into 2 parts. The main differences are the algorithm used for the weights update and the error function. Respectively:
