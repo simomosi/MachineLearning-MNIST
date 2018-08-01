@@ -8,3 +8,5 @@ The project is divided into 2 parts. The main differences are the algorithm used
 The entry point is the *main.m* file in each part.
 
 **NB**: the MNIST database is not included in this repository. You need to download it and modify rows 17-19 of main.m as appropriate.
+
+Developed with [@latios93](https://github.com/latios93).
